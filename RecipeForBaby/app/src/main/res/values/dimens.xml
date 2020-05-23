@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_margin_top">6dp</dimen>
+    <dimen name="main_margin_right">3dp</dimen>
+    <dimen name="main_margin_left">3dp</dimen>
+    <dimen name="image_height">170dp</dimen>
+    <dimen name="text_name">14sp</dimen>
+    <dimen name="text_submit_button">24sp</dimen>
+    <dimen name="text_height">40dp</dimen>
+    <dimen name="rate_margin_top">20dp</dimen>
+    <dimen name="header_image_height">200dp</dimen>
+</resources>

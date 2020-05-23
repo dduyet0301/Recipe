@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_menu_love"
+        android:icon="@drawable/heart_black"
+        android:title="Yêu thích" />
+    <item
+        android:id="@+id/nav_menu_rate_app"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Đánh giá ứng dụng" />
+    <item
+        android:id="@+id/nav_menu_share"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="Chia sẻ ứng dụng" />
+    <item
+        android:id="@+id/nav_menu_google_play"
+        android:icon="@drawable/google_play"
+        android:title="Các ứng dụng khác" />
+    <item
+        android:id="@+id/nav_menu_exit"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        android:title="Thoát" />
+
+</menu>

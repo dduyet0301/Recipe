@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Món Ăn Cho Bé Yêu</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="btn_submit">SUBMIT</string>
+    <string name="toast_rate">Please rate before exit</string>
+</resources>
